@@ -5,7 +5,7 @@ export default {
         extend: {
             backgroundImage: {
                 mobileBg: "url(/images/pattern-background-mobile.svg)",
-                deskopBg: "url(/images/pattern-backgorund-desktop.svg)",
+                deskopBg: "url(/images/pattern-background-desktop.svg)",
             },
             boxShadow: {
                 "3xl": "0px 5px 30px hsla(224, 23%, 55%, 0.7)",
