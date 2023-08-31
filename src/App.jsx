@@ -11,7 +11,7 @@ const App = () => {
                 />
                 <section className="flex flex-col h-full justify-around p-6 sm:flex-auto">
                     <h2 className="text-2xl font-black">Order Summary</h2>
-                    <p className="text-base">
+                    <p className="text-base font-medium text-blue-neutral-unsaturated">
                         You can now listen to millions of songs, audiobooks, and
                         podcasts on any device anywhere you like!
                     </p>
