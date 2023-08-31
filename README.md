@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL: [GitHub](https://github.com/GabeGar/FM-order-summary-component)
--   Live Site URL: [Gh-Pages](https://your-live-site-url.com)
+-   Live Site URL: [Gh-Pages](https://gabegar.github.io/FM-order-summary-component/)
 
 ## My process
 
